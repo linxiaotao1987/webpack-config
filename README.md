@@ -1,6 +1,8 @@
 # webpack-config
 webpack配置，支持es6，react，本地服务器热刷新，单页面路由跳转，sass编译<br/>
 
+git@github.com:linxiaotao1987/webpack-config.git //clone地址<br/>
+
 首先你需要安装node.js，然后使用npm安装依赖。<br/>
 
 进入根目录，使用cmd或者git等命令行输入窗<br/>
