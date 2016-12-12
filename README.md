@@ -3,13 +3,17 @@ webpack配置，支持es6，react，本地服务器热刷新，单页面路由�
 
 git@github.com:linxiaotao1987/webpack-config.git //clone地址<br/>
 
-首先你需要安装node.js，然后使用npm安装依赖。<br/>
+你需要安装node.js，然后使用npm安装依赖。<br/>
 
 进入根目录，使用cmd或者git等命令行输入窗<br/>
 
 npm install<br/>
 
-这个命令会根据package.json里配置的依赖下载loader。下载完成后才可以正常执行一下命令：<br/>
+这个命令会根据package.json里配置的依赖下载loader。<br/>
+
+或者下载node_modules.zip然后解压到根目录，建议你用这个，比npm快百倍<br/>
+
+下载完成后才可以正常执行一下命令：<br/>
 
 npm run build //编译当前文件<br/>
 
