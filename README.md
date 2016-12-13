@@ -13,7 +13,7 @@ npm install<br/>
 
 或者下载node_modules.zip然后解压到根目录，建议你用这个，比npm快百倍<br/>
 
-下载完成后才可以正常执行一下命令：<br/>
+下载完成后才可以正常执行以下命令：<br/>
 
 npm run build //编译当前文件<br/>
 
